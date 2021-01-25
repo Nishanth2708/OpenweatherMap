@@ -12,3 +12,4 @@ Steps to run the program
 ![alt text](https://github.com/Nishanth2708/OpenweatherMap/blob/main/static/myfolder/Screenshot%20from%202021-01-25%2016-02-28.png)
 ![alt text](https://github.com/Nishanth2708/OpenweatherMap/blob/main/static/myfolder/Screenshot%20from%202021-01-25%2016-02-55.png)
 ![alt text](https://github.com/Nishanth2708/OpenweatherMap/blob/main/static/myfolder/Screenshot%20from%202021-01-25%2016-15-04.png)
+![alt text](https://github.com/Nishanth2708/OpenweatherMap/blob/main/MongoDB/Screenshot%20from%202021-01-25%2018-02-13.png)
