@@ -1,0 +1,8 @@
+
+Before running the application you are required to install the following modules on the project folder
+
+requests
+matplotlib.pyplot as plt
+pymongo MongoClient
+Flask, render_template,abort,request
+threading
