@@ -10,3 +10,5 @@ Steps to run the program
 6. Click on the search and enter the city name for the Forecast and Map updates.
 
 ![alt text](https://github.com/Nishanth2708/OpenweatherMap/blob/main/static/myfolder/Screenshot%20from%202021-01-25%2016-02-28.png)
+![alt text](https://github.com/Nishanth2708/OpenweatherMap/blob/main/static/myfolder/Screenshot%20from%202021-01-25%2016-02-55.png)
+![alt text](https://github.com/Nishanth2708/OpenweatherMap/blob/main/static/myfolder/Screenshot%20from%202021-01-25%2016-03-10.png)
